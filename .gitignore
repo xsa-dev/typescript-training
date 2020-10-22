@@ -1,0 +1,5 @@
+# Project exclude paths
+/01-helloworld/myhelloworld.js
+/02-variables/sample-types.js
+/03-loops-and-arrays/loops.js
+/03-loops-and-arrays/reviews.js
